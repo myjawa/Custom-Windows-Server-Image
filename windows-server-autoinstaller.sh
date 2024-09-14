@@ -40,7 +40,7 @@ case $choice in
     3)
         # Windows Server 11
         img_file="windows11.img"
-        iso_link="https://drive.google.com/uc?export=download&id=1J2NQJrchLhTcD6pqrbvp0xrsmDU3GHTq"
+        iso_link="https://software.download.prss.microsoft.com/dbazure/Win11_23H2_English_x64v2.iso?t=66403d5d-38b9-4344-b596-efeb1df7c859&P1=1726371480&P2=601&P3=2&P4=ZQTi%2bxM9n%2ffxFsWOqd%2b8YSaSn6XxyFmFiIqNRzioezu5719gnmCThqXmOncn0lr2VyshjvRdRhCxtX10sQHspPcBoTALrU9O11bSgahhXdAOoq2tEFJNcqoWqfdnJGoEh%2fMvBIZ53CC9VGnukvy5WOLd3GoOkEe4UcAnaZK34%2fsNVnvX36%2bz1Po0kYd05J0kUPoJfo1wVVcTH298Huhj3VGxN8MAY8kq%2bBrgyZe2PNtVblc4ly7xr5DvBgVYqlm4OxqJb21LN0z1lsxeNDZv23GZ2TtK2NZystHBEItkCSuBYieG6yvZ7MEMX0y6yL7TGcQldOm2He%2fLTYfbc1HMWQ%3d%3d"
         iso_file="Win11_23H2_English_x64v2.iso"
         ;;
     *)
