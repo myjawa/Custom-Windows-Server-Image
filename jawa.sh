@@ -32,10 +32,10 @@ case $choice in
         iso_file="windows2016.iso"
         ;;
     2)
-        # Windows Server 2019
-        img_file="windows2019.img"
-        iso_link="https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x409&culture=en-us&country=US"
-        iso_file="windows2019.iso"
+        # Windows Server 10
+        img_file="windows10.img"
+        iso_link="https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x64v1.iso?t=a858b7e4-08fd-496c-b6c6-d277bbc3850b&P1=1726375186&P2=601&P3=2&P4=yyKH5xXt0mx%2b04hZKeLukwb1SCnWBg9dq3kOosMq3YnARr7hdGWZVWIZCA%2bRHPMFMUIqD9lw226ncd%2f%2b3zGMKcbdx7zi%2buroJuVYbsOgqmQf5zFoT6y%2fidGHjxi8NvRj42blVM8Dj1fSU31DTayheMw%2fiCJ9YLPFSu9DcA8ut0q4XNMLvDlG1%2fkgAQXTmCxT%2f2xexhgatBHOLUpuvzAqFWOhVnd2jHP4fITSsSdob97YX0GLMXd%2bfiJPxq3nqOhnISKQT0%2f7X4wVb4UEUGFKFffY9xHlMLaNcmIK726vOceNTRiNWsk%2fetgDbNU4hFliQI2ng0foMAQ42uHwPK7Suw%3d%3d"
+        iso_file="Win10_22H2_English_x64v1.iso"
         ;;
     3)
         # Windows Server 11
